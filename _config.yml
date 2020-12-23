@@ -2,10 +2,9 @@ title: Hayden Zhu
 
 description: Hayden' Personal Web
 markdown: kramdown
-dinky:
-  date_format: "%M %d, %Y"
-  # social links
-  social_links:
-    linkedin: haydenzhu
+
+email: haydenzhuxz@gmail.com
+linkedin_username: haydenz
+github_username: haydenz
 
 theme: jekyll-theme-dinky
