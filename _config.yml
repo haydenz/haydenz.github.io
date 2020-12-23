@@ -2,6 +2,7 @@ title: Hayden Zhu
 
 description: Hayden' Personal Web
 markdown: kramdown
+include: ["_pages"]
 
 # social links
 email: haydenzhuxz@gmail.com
