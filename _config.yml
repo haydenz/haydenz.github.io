@@ -1,12 +1,13 @@
 title: Hayden Zhu
-
+author:
+  email: haydenzhuxz@gmail.com
 description: Hayden' Personal Web
 markdown: kramdown
 
-email: haydenzhuxz@gmail.com
-linkedin_username: haydenz
-github_username: haydenz
+minima:
+  social_links:
+    linkedin: haydenz
+    github: haydenz
 
-theme: jekyll-theme-minima
+theme: minima
 
-show_downloads: false
