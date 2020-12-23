@@ -9,5 +9,5 @@ minima:
     linkedin: haydenz
     github: haydenz
 
-theme: minima
+theme: jekyll-theme-minimal
 
