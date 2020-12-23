@@ -1,19 +1,6 @@
 ---
 title: Hayden Zhu
+permalink:/about/
+layout: posts
+athor_profile: true
 ---
-
-# Education
-
-### University of Hong Kong
-
-### University of California, Berkeley
-
-# Professional Experiences
-
-### Natixis
-
-### DWS
-
-### SenseTime
-
-### HSBC
