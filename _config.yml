@@ -1,4 +1,11 @@
-theme: jekyll-theme-dinky
+title: Hayden Zhu
+
 description: Hayden' Personal Web
 markdown: kramdown
-title: Hayden Zhu
+dinky:
+  date_format: "%M %d, %Y"
+  # social links
+  social_links:
+    linkedin: haydenzhu
+
+theme: jekyll-theme-dinky
