@@ -8,3 +8,5 @@ linkedin_username: haydenz
 github_username: haydenz
 
 theme: jekyll-theme-dinky
+
+show_downloads: false
