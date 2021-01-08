@@ -2,6 +2,16 @@
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
+# Settings
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-titles-from-headings
+  - jekyll-remote-theme
+
 # Author
 author:
   name: Hayden Zhu
@@ -22,6 +32,7 @@ author:
       icon: "fab fa-2x fa-fw fa-github"
       url: "https://github.com/haydenz"
 
+# Footer
 footer:
   links:
     - label: "GitHub"
@@ -30,6 +41,10 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/haydenz/"
+
+# Contents
+include:
+  - _pages
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
