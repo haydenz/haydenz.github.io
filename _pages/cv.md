@@ -1,6 +1,6 @@
 ---
 title: Hayden Zhu
 permalink:/about/
-layout: posts
+layout: single
 athor_profile: true
 ---
