@@ -1,0 +1,38 @@
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+
+# Author
+author:
+  name: Hayden Zhu
+  bio:
+    Financial Engineering
+  # avatar           : /assets/images/coastal_trail.jpg
+  links:
+    - label: "Hong Kong"
+      icon: "fas fa-2x fa-fw fa-map-marker-alt"
+      url: "https://www.google.com/search?client=safari&rls=en&q=hong+kong&ie=UTF-8&oe=UTF-8#"
+    - label: "Email"
+      icon: "fas fa-2x fa-fw fa-envelope"
+      url: "haydenzhuxz [at] gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/haydenz/"
+    - label: "GitHub"
+      icon: "fab fa-2x fa-fw fa-github"
+      url: "https://github.com/haydenz"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/haydenz"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/haydenz/"
+
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
