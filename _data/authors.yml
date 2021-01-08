@@ -2,7 +2,7 @@
 Hayden Zhu:
   name  : "Hayden Zhu"
   bio   : "Financial Engineering"
-  avatar: "/assets/images/haydenz.png"
+  avatar: "/_data/assets/images/haydenz.png"
   links:
     - label: "Hong Kong"
       icon: "fas fa-1g fa-fw fa-map-marker-alt"
