@@ -1,0 +1,18 @@
+
+Hayden Zhu:
+  name  : "Hayden Zhu"
+  bio   : "Financial Engineering"
+  avatar: "/assets/images/haydenz.jpg"
+  links:
+    - label: "Hong Kong"
+      icon: "fas fa-1g fa-fw fa-map-marker-alt"
+      url: "https://www.google.com/search?client=safari&rls=en&q=hong+kong&ie=UTF-8&oe=UTF-8#"
+    - label: "Email"
+      icon: "fas fa-1g fa-fw fa-envelope"
+      url: "haydenzhuxz [at] gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-1g fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/haydenz"
+    - label: "GitHub"
+      icon: "fab fa-1g fa-fw fa-github"
+      url: "https://github.com/haydenz"
