@@ -1,6 +1,6 @@
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin: "default" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Settings
 plugins:
