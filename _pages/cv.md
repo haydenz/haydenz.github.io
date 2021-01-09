@@ -1,7 +1,7 @@
 ---
 title: Hayden's Experiences
 permalink: /cv/
-layout: posts
+layout: single
 author_profile: true
 ---
 
