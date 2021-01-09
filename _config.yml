@@ -5,6 +5,8 @@ subtitle: "Lifelong Learner"
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+search: true
+# url: https://haydenz.com
 
 # Settings
 plugins:
