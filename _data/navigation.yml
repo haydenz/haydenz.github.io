@@ -6,3 +6,14 @@ main:
     url: /cv/
   - title: "Projects"
     url: /projects/
+
+# documentation links
+docs: 
+  - title: Meta
+  children:
+    - title: "About"
+      url: /about/
+    - title: "CV"
+      url: /cv/
+    - title: "Projects"
+      url: /projects/
