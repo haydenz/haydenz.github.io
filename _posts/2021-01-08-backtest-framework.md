@@ -6,22 +6,19 @@ categories:
   - Post
 last_modified_at: 2021-01-08
 tags:
-  - trading
   - HFT
   - trading framework
+  - algo trading
+  - algorithms
 ---
 
 # Backtest Framework
 
 For personal trading strategies :)
 
-```python
-# test
-def func(arr):
-  return arr.sorted()
-```
+**Still Under Construction**
 
-```css
+```python
 # test
 def func(arr):
   return arr.sorted()
