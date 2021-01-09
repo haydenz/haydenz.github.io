@@ -5,13 +5,23 @@ toc_sticky: true
 categories: 
   - Post
 last_modified_at: 2021-01-08
+tags:
+  - trading
+  - HFT
+  - trading framework
 ---
 
 # Backtest Framework
 
 For personal trading strategies :)
 
-```Python
+```python
+# test
+def func(arr):
+  return arr.sorted()
+```
+
+```css
 # test
 def func(arr):
   return arr.sorted()
