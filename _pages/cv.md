@@ -1,8 +1,8 @@
 ---
-title: Hayden Zhu
+title: Hayden's Experiences
 permalink: /cv/
 layout: posts
-athor_profile: true
+author_profile: true
 ---
 
 # 2015
