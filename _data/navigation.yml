@@ -10,7 +10,7 @@ main:
 # documentation links
 docs: 
   - title: Meta
-  children:
+    children:
     - title: "About"
       url: /about/
     - title: "CV"
