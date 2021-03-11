@@ -1,5 +1,6 @@
 ---
 title: "Ongoing: Algo Trading Platform"
+classes: wide
 toc: true
 toc_sticky: true
 categories: 
