@@ -1,8 +1,8 @@
 ---
 title: About Me
 permalink: /about/
-classes: wide
 layout: single
+classes: wide
 author_profile: true
 ---
 
