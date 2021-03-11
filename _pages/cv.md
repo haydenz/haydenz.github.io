@@ -1,5 +1,6 @@
 ---
 title: Hayden Zhu
+classes: wide
 permalink: /cv/
 layout: single
 author_profile: true
