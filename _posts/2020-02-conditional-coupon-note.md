@@ -13,7 +13,7 @@ tags:
   - group project
 ---
 
-Structured product design for group project of couse FINA4354 Financial Engineering.
+Structured product design for group project of course FINA4354 Financial Engineering.
 
 <object data="https://haydenz.github.io/assets/media/financial-engineering/conditional-coupon-note-proj.pdf" type="application/pdf" width="1000px" height="1200px">
     <embed src="https://haydenz.github.io/assets/media/financial-engineering/conditional-coupon-note-proj.pdf">
