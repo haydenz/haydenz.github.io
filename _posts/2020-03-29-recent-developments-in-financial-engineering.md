@@ -1,5 +1,5 @@
 ---
-title: "Recent Developments in Financial Engineering: Neural Network-Based Calibration"
+title: "Neural Network-Based Calibration"
 classes: wide
 toc: true
 toc_sticky: true
@@ -15,8 +15,9 @@ tags:
   - machine learning
   - numerical method
 ---
+# Recent Developments in Financial Engineering
 
-This is the final essay of course FINA4354 Financial Engineering.
+This is midterm essay of the course FINA4354 Financial Engineering.
 
 <object data="https://haydenz.github.io/assets/media/financial-engineering/neural-network-based-calibration-of-stochastic-volatility-models.pdf" type="application/pdf" width="1000px" height="1200px">
     <embed src="https://haydenz.github.io/assets/media/financial-engineering/neural-network-based-calibration-of-stochastic-volatility-models.pdf">

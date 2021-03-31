@@ -1,5 +1,5 @@
 ---
-title: "Structured Product Initiate: Conditional Coupon Note"
+title: "Conditional Coupon Note"
 classes: wide
 toc: true
 toc_sticky: true
@@ -12,8 +12,9 @@ tags:
   - quantitative finance
   - group project
 ---
+# Structured Product Initiate
 
-Structured product design for group project of course FINA4354 Financial Engineering.
+This is group project of the course FINA4354 Financial Engineering.
 
 <object data="https://haydenz.github.io/assets/media/financial-engineering/conditional-coupon-note-proj.pdf" type="application/pdf" width="1000px" height="1200px">
     <embed src="https://haydenz.github.io/assets/media/financial-engineering/conditional-coupon-note-proj.pdf">
