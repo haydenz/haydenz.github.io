@@ -3,8 +3,6 @@ title: "Greeks2"
 classes: wide
 toc: true
 toc_sticky: true
-# htmlwidgets: true
-# output: html_document
 categories: 
   - Post
 last_modified_at: 2021-04-15
@@ -14,7 +12,6 @@ tags:
   - black scholes  
 ---
 
-<!-- mathjax -->
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
@@ -37,9 +34,10 @@ FX option traders' convention: $$\sigma_{implied}(\Delta_t)$$ instead of $$\sigm
 
 - Delta plots under different implied vol
 
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <div id="bb2f785e-fa80-4c98-868c-180f1dcf3b2a" class="plotly-graph-div" style="height:100%; width:100%;"></div>
+    <script type="text/javascript">window.PLOTLYENV=window.PLOTLYENV || {}; window.PLOTLYENV.BASE_URL="https://plot.ly"; Plotly.newPlot( "bb2f785e-fa80-4c98-868c-180f1dcf3b2a", [{"type": "scatter", "x": [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150], "y": [0, 0, 0, 0, 0, 0, 10, 20, 30, 40, 50]}, {"type": "scatter", "x": [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150], "y": [0, 0.05, 0.12, 0.2, 0.3, 0.5, 0.7, 0.8, 0.88, 0.95, 1]}, {"type": "scatter", "x": [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150], "y": [0, 0.03, 0.08, 0.15, 0.24, 0.5, 0.76, 0.85, 0.92, 0.97, 1]}], {"linkText": "Export to plot.ly", "showLink": true}) </script>
 
-
- 
 
 # Appendix
 ## Notations
