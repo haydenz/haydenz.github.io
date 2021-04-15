@@ -15,14 +15,9 @@ tags:
 ---
 
 <!-- mathjax -->
-
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
-
-<!-- plotly -->
-<!-- https://plotly.com/python/ -->
-
 
 # Vanna and Skewness
 Under risk neutrality assuption, $$S_t = \mathbb{E}_t[S_T], \forall t<T \implies \mathbb{E}[r]=0 $$.
@@ -39,7 +34,6 @@ FX option traders' convention: $$\sigma_{implied}(\Delta_t)$$ instead of $$\sigm
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <div id="25a6c0cd-8172-4064-adde-d675fc86323d" class="plotly-graph-div" style="height:100%; width:100%;"></div>
     <script type="text/javascript">window.PLOTLYENV=window.PLOTLYENV || {}; window.PLOTLYENV.BASE_URL="https://plot.ly"; Plotly.newPlot( "25a6c0cd-8172-4064-adde-d675fc86323d", [{"type": "scatter", "x": [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150], "y": [25, 20, 16, 13, 11, 10, 9.5, 9.1, 8.8, 9, 9.2]}], {"linkText": "Export to plot.ly", "showLink": true}) </script>
-
 
 - Delta plots under different implied vol
 
