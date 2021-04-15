@@ -18,15 +18,12 @@ tags:
 
 # Vanna and Skewness
 Under risk neutrality assuption,
-<img src="https://latex.codecogs.com/svg.latex?S_t = \mathbb{E}_t[S_T], \forall t<T \implies \mathbb{E}[r]=0"/><br/>
+$$S_t = \mathbb{E}_t[S_T], \forall t<T \implies \mathbb{E}[r]=0$$
 
-<img src="https://latex.codecogs.com/svg.latex?Skewness = \mathbb{E}[\frac{(r - \mathbb{E}[r])^3}{\sigma^3}]=\mathbb{E}[\frac{r^3}{\sigma^3}]=\frac{1}{\sigma^3}\mathbb{E}[r \cdot r^2]=\frac{1}{\sigma^3}Cov[r, r^2] \\ =Corr[r, r^2]\frac{\sigma \sqrt{Var[r^2]}}{\sigma^3}=Corr[r, r^2]\frac{\sqrt{Var[r^2]}}{\sigma^2}"/><br/>
+$$\begin{aligned} \text{Skewness} &= \mathbb{E}[\frac{(r - \mathbb{E}[r])^3}{\sigma^3}]=\mathbb{E}[\frac{r^3}{\sigma^3}] \\ &= \frac{1}{\sigma^3}\mathbb{E}[r \cdot r^2]=\frac{1}{\sigma^3}Cov[r, r^2] \\ &= Corr[r, r^2]\frac{\sigma \sqrt{Var[r^2]}}{\sigma^3}=Corr[r, r^2]\frac{\sqrt{Var[r^2]}}{\sigma^2}$$
 
 
 # Appendix
 ## Notations
-<img src="https://latex.codecogs.com/svg.latex? r = \ln(\frac{S_t}{S_0})"/><br/>
-<img src="https://latex.codecogs.com/svg.latex? r = \ln(\frac{S_t}{S_0})"/><br/>
-
-
-  Testing $$\alpha$$
+$$r = \ln(\frac{S_t}{S_0})$$
+$$r = \ln(\frac{S_t}{S_0})$$
