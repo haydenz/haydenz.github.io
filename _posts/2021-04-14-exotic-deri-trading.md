@@ -29,33 +29,33 @@ FX option traders' convention: $\sigma_{implied}(\Delta_t)$ instead of $\sigma_{
 
 - $\sigma_{implied}(K)$: Implied vol smile
 
-    using Plots, LaTeXStrings
-    plotly()
-    Plots.plot(1:4, [[1,4,9,16], [0.5, 2, 4.5, 8]], 
-        labels = [L"\alpha_{1c} = 352 \pm 11 \text{ km s}^{-1}" L"\beta_{1c} = 25 \pm 11 \text{ km s}^{-1}"],
-        xlabel = L"\sqrt{(n_\text{c}(t|{T_\text{early}}))}",
-        ylabel = L"d, r \text{ (solar radius)}"
-        )
+using Plots, LaTeXStrings
+plotly()
+Plots.plot(1:4, [[1,4,9,16], [0.5, 2, 4.5, 8]], 
+    labels = [L"\alpha_{1c} = 352 \pm 11 \text{ km s}^{-1}" L"\beta_{1c} = 25 \pm 11 \text{ km s}^{-1}"],
+    xlabel = L"\sqrt{(n_\text{c}(t|{T_\text{early}}))}",
+    ylabel = L"d, r \text{ (solar radius)}"
+    )
 
 - Delta plots under different implied vol
-    var myChart = echarts.init(document.getElementById('main'));
-    var chars = ['\u00BC', '\u00BD', '\u00BE', '\u2150', '\u2151', '\u2152'];
-    var option = {
-    xAxis: [{
-        data: [0, 1, 2, 3, 4, 5],
-        axisLabel: {
-        formatter: (val, idx) => chars[parseInt(val)],
-        }
-    }],
-    yAxis: [{}],
-    series: [{
-        name: 'Series',
-        type: 'line',
-        data: [5, 20, 36, 10, 10, 20]
-    }]
-    };
+var myChart = echarts.init(document.getElementById('main'));
+var chars = ['\u00BC', '\u00BD', '\u00BE', '\u2150', '\u2151', '\u2152'];
+var option = {
+xAxis: [{
+    data: [0, 1, 2, 3, 4, 5],
+    axisLabel: {
+    formatter: (val, idx) => chars[parseInt(val)],
+    }
+}],
+yAxis: [{}],
+series: [{
+    name: 'Series',
+    type: 'bar',
+    data: [5, 20, 36, 10, 10, 20]
+}]
+};
 
-    myChart.setOption(option);
+myChart.setOption(option);
 
 
  
