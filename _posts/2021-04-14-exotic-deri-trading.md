@@ -12,6 +12,10 @@ tags:
   - black scholes
 ---
 
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # Vanna and Skewness
 Under risk neutrality assuption,
 <img src="https://latex.codecogs.com/svg.latex?S_t = \mathbb{E}_t[S_T], \forall t<T \implies \mathbb{E}[r]=0"/><br/>
@@ -24,15 +28,5 @@ Under risk neutrality assuption,
 <img src="https://latex.codecogs.com/svg.latex? r = \ln(\frac{S_t}{S_0})"/><br/>
 <img src="https://latex.codecogs.com/svg.latex? r = \ln(\frac{S_t}{S_0})"/><br/>
 
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        inlineMath: [['$','$']]
-      }
-    });
-  </script>
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
   Testing $$\alpha$$
