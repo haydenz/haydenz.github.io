@@ -3,18 +3,25 @@ title: "Greeks"
 classes: wide
 toc: true
 toc_sticky: true
+htmlwidgets: true
+output: html_document
 categories: 
   - Post
 last_modified_at: 2021-04-15
 tags:
   - structured product
   - financial engineering
-  - black scholes
+  - black scholes  
 ---
 
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
+
+
+<!--html_preserve--><div id="htmlwidget-179" style="width:432px;height:288px;" class="plotly html-widget"></div>
+<script type="application/json" data-for="htmlwidget-179">{"x":{"data":[{"type":"scatter","inherit":false,"x":[21,21,22.8,21.4,18.7,18.1,14.3,24.4,22.8,19.2,17.8,16.4,17.3,15.2,10.4,10.4,14.7,32.4,30.4,33.9,21.5,15.5,15.2,13.3,19.2,27.3,26,30.4,15.8,19.7,15,21.4],"y":[160,160,108,258,360,225,360,146.7,140.8,167.6,167.6,275.8,275.8,275.8,472,460,440,78.7,75.7,71.1,120.1,318,304,350,400,79,120.3,95.1,351,145,301,121],"mode":"markers"}],"layout":{"xaxis":{"title":"mpg"},"yaxis":{"title":"disp"},"hovermode":"closest","margin":{"b":40,"l":60,"t":25,"r":10}},"url":null,"width":null,"height":null,"source":"A","config":{"modeBarButtonsToRemove":["sendDataToCloud"]},"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<br>
 
 # Vanna and Skewness
 Under risk neutrality assuption, $$S_t = \mathbb{E}_t[S_T], \forall t<T \implies \mathbb{E}[r]=0 $$.
@@ -26,40 +33,15 @@ Skewness is proportion to the correlation between underlying return $$r$$ and sq
 # Delta and Implied Vol
 FX option traders' convention: $$\sigma_{implied}(\Delta_t)$$ instead of $$\sigma_{implied}(K)$$. It is commonly used among interbank market, and still used in OTC market.
 
-
 - $$ \sigma_{implied}(K) $$: Implied vol smile
 
-$$
-using Plots, LaTeXStrings
-plotly()
-Plots.plot(1:4, [[1,4,9,16], [0.5, 2, 4.5, 8]], 
-    labels = [L"\alpha_{1c} = 352 \pm 11 \text{ km s}^{-1}" L"\beta_{1c} = 25 \pm 11 \text{ km s}^{-1}"],
-    xlabel = L"\sqrt{(n_\text{c}(t|{T_\text{early}}))}",
-    ylabel = L"d, r \text{ (solar radius)}"
-    )
-$$
+
+```{r, out.width="50%", out.extra='style="background-color: #9ecff7; padding:10px; display: inline-block;"', eval=FALSE}
+plot(10:1, pch=21, bg="red")
+```
 
 - Delta plots under different implied vol
 
-$$
-var myChart = echarts.init(document.getElementById('main'));
-var chars = ['\u00BC', '\u00BD', '\u00BE', '\u2150', '\u2151', '\u2152'];
-var option = {
-xAxis: [{
-    data: [0, 1, 2, 3, 4, 5],
-    axisLabel: {
-    formatter: (val, idx) => chars[parseInt(val)],
-    }
-}],
-yAxis: [{}],
-series: [{
-    name: 'Series',
-    type: 'bar',
-    data: [5, 20, 36, 10, 10, 20]
-}]
-};
-$$
-myChart.setOption(option);
 
 
  

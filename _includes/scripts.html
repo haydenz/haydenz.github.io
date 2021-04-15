@@ -1,5 +1,17 @@
+
+<!------------ mathjax --------------------->
 {% if page.mathjax %}
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
+{% endif %}
+
+<!------------ htmlwidgets --------------------->
+{% if page.htmlwidgets %}
+{% for html_dep in site.static_files %}
+  {% if html_dep.path contains 'htmlwidgets_deps/' %}
+    {% assign start = "<script src=" | append: {{site.baseurl}} %}
+    {{html_dep.path | prepend: start | append: "></script>" }}
+    {% endif %}
+  {% endfor %}
 {% endif %}
