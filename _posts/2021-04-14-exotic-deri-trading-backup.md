@@ -36,7 +36,7 @@ FX option traders' convention: $$\sigma_{implied}(\Delta_t)$$ instead of $$\sigm
 
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <div id="bb2f785e-fa80-4c98-868c-180f1dcf3b2a" class="plotly-graph-div" style="height:100%; width:100%;"></div>
-    <script type="text/javascript">window.PLOTLYENV=window.PLOTLYENV || {}; window.PLOTLYENV.BASE_URL="https://plot.ly"; Plotly.newPlot( "bb2f785e-fa80-4c98-868c-180f1dcf3b2a", [{"type": "scatter", "x": [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150], "y": [0, 0, 0, 0, 0, 0, 10, 20, 30, 40, 50], "yaxis": "Payoff"}, {"type": "scatter", "x": [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150], "y": [0, 0.05, 0.12, 0.2, 0.3, 0.5, 0.7, 0.8, 0.88, 0.95, 1], "yaxis": "Delta"}, {"type": "scatter", "x": [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150], "y": [0, 0.03, 0.08, 0.15, 0.24, 0.5, 0.76, 0.85, 0.92, 0.97, 1], "yaxis": "Delta"}], {"linkText": "Export to plot.ly", "showLink": true}) </script>
+    <script type="text/javascript">window.PLOTLYENV=window.PLOTLYENV || {}; window.PLOTLYENV.BASE_URL="https://plot.ly"; Plotly.newPlot( "bb2f785e-fa80-4c98-868c-180f1dcf3b2a", [{"type": "scatter", "x": [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150], "y": [0, 0, 0, 0, 0, 0, 10, 20, 30, 40, 50], "yaxis": "Payoff", "name": "Payoff"}, {"type": "scatter", "x": [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150], "y": [0, 0.05, 0.12, 0.2, 0.3, 0.5, 0.7, 0.8, 0.88, 0.95, 1], "yaxis": "Delta", "name": "Delta of Low Vol"}, {"type": "scatter", "x": [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150], "y": [0, 0.03, 0.08, 0.15, 0.24, 0.5, 0.76, 0.85, 0.92, 0.97, 1], "yaxis": "Delta", "name": "Delta of High Vol"}], {"linkText": "Export to plot.ly", "showLink": true}) </script>
 
 
 # Appendix
