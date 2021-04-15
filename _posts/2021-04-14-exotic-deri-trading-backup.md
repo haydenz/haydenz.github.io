@@ -3,8 +3,8 @@ title: "Greeks2"
 classes: wide
 toc: true
 toc_sticky: true
-htmlwidgets: true
-output: html_document
+# htmlwidgets: true
+# output: html_document
 categories: 
   - Post
 last_modified_at: 2021-04-15
@@ -15,6 +15,7 @@ tags:
 ---
 
 <!-- mathjax -->
+
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
