@@ -22,9 +22,8 @@ $$S_t = \mathbb{E}_t[S_T], \forall t<T \implies \mathbb{E}[r]=0$$
 
 $$\begin{aligned} \text{Skewness} &= \mathbb{E}[\frac{(r - \mathbb{E}[r])^3}{\sigma^3}]=\mathbb{E}[\frac{r^3}{\sigma^3}] \\ &= \frac{1}{\sigma^3}\mathbb{E}[r \cdot r^2]=\frac{1}{\sigma^3}Cov[r, r^2] \\ &= Corr[r, r^2]\frac{\sigma \sqrt{Var[r^2]}}{\sigma^3}=Corr[r, r^2]\frac{\sqrt{Var[r^2]}}{\sigma^2}\end{aligned}$$
 
-<!-- Skewness $$\begin{aligned}  &= \mathbb{E}[\frac{(r - \mathbb{E}[r])^3}{\sigma^3}]=\mathbb{E}[\frac{r^3}{\sigma^3}] \\ &= \frac{1}{\sigma^3}\mathbb{E}[r \cdot r^2]=\frac{1}{\sigma^3}Cov[r, r^2] \\ &= Corr[r, r^2]\frac{\sigma \sqrt{Var[r^2]}}{\sigma^3}=Corr[r, r^2]\frac{\sqrt{Var[r^2]}}{\sigma^2}\end{aligned}$$ -->
+Skewness is proportion to the correlation between underlying return $$r$$ and squared underlying return $$r^2$$.  
 
 # Appendix
 ## Notations
-$$r = \ln(\frac{S_t}{S_0})$$
 $$r = \ln(\frac{S_t}{S_0})$$
