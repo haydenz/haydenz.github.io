@@ -1,5 +1,5 @@
 ---
-title: "Greeks2"
+title: "Greeks"
 classes: wide
 toc: true
 toc_sticky: true
