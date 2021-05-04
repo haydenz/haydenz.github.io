@@ -1,5 +1,5 @@
 ---
-title: "EQD Trading Open Reources"
+title: "MFE Programs"
 classes: wide
 toc: true
 toc_sticky: true
@@ -13,7 +13,7 @@ tags:
 
 Open learning materials.
 
-# MFE Courses
+# US
 
 ## [CUNY](https://mfe.baruch.cuny.edu/)
 
@@ -28,4 +28,13 @@ Open learning materials.
 ## [Princeton]()
 [FIN501](https://www.princeton.edu/~markus/teaching/Fin501/)
 
-# Textbooks
+# UK
+
+
+# Canada
+
+
+# Netherland
+
+
+# Sweden
