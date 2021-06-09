@@ -26,20 +26,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/haydenz/haydenz/blob/main/github-metrics.svg)
 
+![Alt text](https://github.com/haydenz/haydenz/blob/main/github-metrics.svg)
+<img src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">
 
-<object data="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg" type="image/svg+xml">
-  <img src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg" />
-</object>
+![Alt text](https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.svg)
+<img src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.svg">
 
-<table>
-  <td align="center">
-    <img src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.svg">
-    <details><summary>Full year version</summary>
-      <img src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.fullyear.svg">
-    </details>
-    <img width="900" height="1" alt="">
-  </td>
-</table>
+![Alt text](https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.fullyear.svg)
+<img src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.fullyear.svg">
