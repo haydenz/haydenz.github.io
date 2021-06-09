@@ -16,6 +16,9 @@ tags:
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
+# Black Scholes
+$$$$
+
 # Vanna and Skewness
 Under risk neutrality assuption, $$S_t = \mathbb{E}_t[S_T], \forall t<T \implies \mathbb{E}[r]=0 $$.
 
