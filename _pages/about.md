@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<svg alt="" xmlns="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg"></svg>
 
 [<img align="center" width="500" alt="" src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">](https://github.com/haydenz)
 
 
-<img src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.svg">
+<img alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.svg">
 <details><summary>Full year version</summary>
-  <img src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.fullyear.svg">
+  <img alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.fullyear.svg">
 </details>
 <img align="center" width="500" height="1" alt="">
 
