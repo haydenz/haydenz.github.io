@@ -27,11 +27,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Alt text](https://github.com/haydenz/haydenz/blob/main/github-metrics.svg)
-<img src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">
-
-![Alt text](https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.svg)
-<img src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.svg">
-
-![Alt text](https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.fullyear.svg)
-<img src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.fullyear.svg">
+[<img align="center" width="900" alt="" src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">](https://github.com/haydenz)
+[<img align="center" width="900" alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.stock.svg">](https://github.com/haydenz)
+[<img align="center" width="900" alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.svg">](https://github.com/haydenz)
