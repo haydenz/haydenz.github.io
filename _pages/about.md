@@ -29,15 +29,10 @@ Here are some ideas to get you started:
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/haydenz/haydenz/blob/main/github-metrics.svg)
 
-<table>
-  <td align="center">
-    <img src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">
-    <details><summary>Full year version</summary>
-      <img src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">
-    </details>
-    <img width="900" height="1" alt="">
-  </td>
-</table>
+
+<object data="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg" type="image/svg+xml">
+  <img src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg" />
+</object>
 
 <table>
   <td align="center">
