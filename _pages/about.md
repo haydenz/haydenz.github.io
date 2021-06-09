@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src=""https://github.com/haydenz/haydenz/blob/main/github-metrics.svg" alt="" title="GitHub Metrics" width="900" height="" />
+</p>
 
 [<img align="center" width="900" alt="" src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">](https://github.com/haydenz)
 
