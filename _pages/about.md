@@ -26,14 +26,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src=""https://github.com/haydenz/haydenz/blob/main/github-metrics.svg" alt="" title="GitHub Metrics" width="900" height="" />
-</p>
 
-[<img align="center" width="900" alt="" src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">](https://github.com/haydenz)
+[<img align="center" width="500" alt="" src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">](https://github.com/haydenz)
 
-[<img align="center" width="900" alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.svg">](https://github.com/haydenz)
 
-[<img align="center" width="900" alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.languages.indepth.svg">](https://github.com/haydenz)
+<img src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.svg">
+<details><summary>Full year version</summary>
+  <img src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.fullyear.svg">
+</details>
+<img align="center" width="500" height="1" alt="">
 
-[<img align="center" width="900" alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.stock.svg">](https://github.com/haydenz)
+[<img align="center" width="500" alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.languages.indepth.svg">](https://github.com/haydenz)
+
+[<img align="center" width="500" alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.stock.svg">](https://github.com/haydenz)
