@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<svg alt="" xmlns="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg"></svg>
 
-[<img align="center" width="500" alt="" src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">](https://github.com/haydenz)
+[<img align="center" width="500" alt="" src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">](https://github.com/haydenz/hadyenz)
 
 
 <img alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.svg">
@@ -36,6 +35,6 @@ Here are some ideas to get you started:
 </details>
 <img align="center" width="500" height="1" alt="">
 
-[<img align="center" width="500" alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.languages.indepth.svg">](https://github.com/haydenz)
+[<img align="center" width="500" alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.languages.indepth.svg">](https://github.com/haydenz/haydenz)
 
-[<img align="center" width="500" alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.stock.svg">](https://github.com/haydenz)
+[<img align="center" width="500" alt="" src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.stock.svg">](https://github.com/haydenz/haydenz)
