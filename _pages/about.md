@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 <table>
   <td align="center">
+    <img src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">
+    <details><summary>Full year version</summary>
+      <img src="https://github.com/haydenz/haydenz/blob/main/github-metrics.svg">
+    </details>
+    <img width="900" height="1" alt="">
+  </td>
+</table>
+
+<table>
+  <td align="center">
     <img src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.svg">
     <details><summary>Full year version</summary>
       <img src="https://github.com/haydenz/haydenz/blob/main/metrics.plugin.isocalendar.fullyear.svg">
